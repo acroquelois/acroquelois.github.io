@@ -6,7 +6,7 @@ In this course, you will learn how to use all tools necessary to make Web Scrapi
 
 
 
-**Click on images to display vidéo**
+**Click on images to display a video**
 
 ## Introduction
 
