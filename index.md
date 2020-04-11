@@ -23,4 +23,4 @@ In this course, you will learn how to use all tools necessary to make Web Scrapi
 
 ## Scrapy
 
-[![XPATH](https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png)](https://github.com/zaydane-mokni/ScrapyMooc)
+[![XPATH](https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png)](https://github.com/zaydane-mokni/ScrapyMooc/blob/master/ScrapyZaydane.pdf)
