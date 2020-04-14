@@ -21,9 +21,18 @@ In this course, you will learn how to use all tools necessary to make Web Scrapi
 [![XPATH](http://img.youtube.com/vi/hQBTot17e_U/0.jpg)](http://www.youtube.com/watch?v=hQBTot17e_U "https://i9.ytimg.com/vi/hQBTot17e_U/mq1.jpg?sqp=CN22x_QF&rs=AOn4CLBfIEa8G2Ke2edpb6ToLONS8jGtZA")
 
 ## Python
-[![XPATH]()](https://youtu.be/k0TfV5rNKwo")
-### Introduction
 
+### Introduction
+[![Intro]](https://www.youtube.com/watch?v=k0TfV5rNKwo&feature=youtu.be)
+
+### Basic
+[![Basic]](https://www.youtube.com/watch?v=92KOpDWG_n4&feature=youtu.be)
+
+### Arithmetic operation
+[![Operation]](https://www.youtube.com/watch?v=ypalXDAJdgM&feature=youtu.be)
+
+### Function
+[![Function]](https://www.youtube.com/watch?v=OOxiLURmJsI&feature=youtu.be)
 ## Scrapy
 
 [![XPATH](https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png)](https://github.com/zaydane-mokni/ScrapyMooc/blob/master/ScrapyZaydane.pdf)
