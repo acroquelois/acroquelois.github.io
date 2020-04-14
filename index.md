@@ -23,16 +23,32 @@ In this course, you will learn how to use all tools necessary to make Web Scrapi
 ## Python
 
 ### Introduction
-[![Intro]](https://www.youtube.com/watch?v=k0TfV5rNKwo&feature=youtu.be)
+[Intro](https://www.youtube.com/watch?v=k0TfV5rNKwo&feature=youtu.be)
 
 ### Basic
-[![Basic]](https://www.youtube.com/watch?v=92KOpDWG_n4&feature=youtu.be)
+[Basic](https://www.youtube.com/watch?v=92KOpDWG_n4&feature=youtu.be)
 
 ### Arithmetic operation
-[![Operation]](https://www.youtube.com/watch?v=ypalXDAJdgM&feature=youtu.be)
+[Operation](https://www.youtube.com/watch?v=ypalXDAJdgM&feature=youtu.be)
 
 ### Function
-[![Function]](https://www.youtube.com/watch?v=OOxiLURmJsI&feature=youtu.be)
+[Function](https://www.youtube.com/watch?v=OOxiLURmJsI&feature=youtu.be)
+
+### Build function
+[Build function](https://www.youtube.com/watch?v=mX2YUb-mEfQ&feature=youtu.be)
+
+### List
+[List](https://www.youtube.com/watch?v=QpVlbtOVZwQ&feature=youtu.be)
+
+### Condition
+[Condition](https://www.youtube.com/watch?v=Qn5ALly1vLw&feature=youtu.be)
+
+### Loop
+[Loop](https://www.youtube.com/watch?v=08DFwl7yztQ&feature=youtu.be)
+
+### Text editor
+[Text Editor](https://www.youtube.com/watch?v=Kgvna07ZQfM&feature=youtu.be)
+
 ## Scrapy
 
 [![XPATH](https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png)](https://github.com/zaydane-mokni/ScrapyMooc/blob/master/ScrapyZaydane.pdf)
